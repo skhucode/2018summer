@@ -31,6 +31,23 @@
   - [Q11719 - 그대로 출력하기 2](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11719.java)
   - [Q11720 - 숫자의 합](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11720.java)
   - [Q11721 - 열 개씩 끊어 출력하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/io/Q11721.java)
+  - Q2741 - N찍기
+  - Q2742 - 기찍 N
+  - Q2739 - 구구단
+  - Q1924 - 2007년
+  - Q8393 - Sum
+  - Q10818 - 최소, 최대
+  - Q2438 - 별찍기 - 1
+  - Q2439 - 별찍기 - 2
+  - Q2440 - 별찍기 - 3
+  - Q2441 - 별찍기 - 4
+  - Q2442 - 별찍기 - 5
+  - Q2444 - 별찍기 - 7
+  - Q2445 - 별찍기 - 8
+  - Q2446 - 별찍기 - 9
+  - Q2522 - 별찍기 - 12
+  - Q10991 - 별찍기 - 16
+  - Q10992 - 별찍기 - 17
 - [**Collections**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/collections)
 
   - [Q2750 - 수 정렬하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q2750.java)
@@ -42,11 +59,11 @@
   - [Q10845 - 큐](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q10845.java)
   - [Q1927 - 최소 힙 | PriorityQueue](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q1927.java)
   - [Q11279 - 최대 힙 | PriorityQueue 역순](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/collections/Q11279.java)
-- **Sort**
+- [**Sort**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/sort)
   - [Q2750 - 수 정렬하기](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q2750.java)
   - [Q11650 - 좌표 정렬하기 | Comparable](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q11650.java)
   - [Q11651 - 좌표 정렬하기2 | Comparator](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/sort/Q11651.java)
-- **BigInteger**
+- [**BigInteger**](https://github.com/skhucode/skhucode-inhyuck/tree/develop/skhucode/src/biginteger)
   - [Q10826 - 피보나치 수 4](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10826.java)
   - [Q10757 - 큰 수 A+B](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10757.java)
   - [Q10827 - a^b | BigDecimal](https://github.com/skhucode/skhucode-inhyuck/blob/develop/skhucode/src/biginteger/Q10827.java)
